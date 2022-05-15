@@ -22,7 +22,7 @@ I had a lot of fun making the program my own by applying all that I learned abou
 
 | <b>My Code</b> | 
 |:--:|
-| [![Link to My Code](my-code.png)](https://docs.google.com/presentation/d/e/2PACX-1vROkxVyUGrL-H86BwdRjp2-pR0OU4mqIA1PmLdf0vh8ypV4msyidQBM9mZgJLeFc7AsDSrrOJjhP8Oe/pub?start=false&loop=false&delayms=3000&slide=id.g1270c083a6c_0_146) |
+| [![Link to My Code](my-code.png)](https://raw.githubusercontent.com/Faraja17/elif-practice/main/my-code.png) |
 
 
 ### Links

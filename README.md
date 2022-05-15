@@ -1,5 +1,5 @@
 # elif Practice
-Description: This program, written in Python 3.10.4, is a modification of a much more rudimentary elif practice example presented in *Chapter 2: Flow Control* of the book [*Automate the Boring Stuff with Python* by Al Sweigart](https://automatetheboringstuff.com/).
+This program, written in Python 3.10.4, is a modification of a much more rudimentary elif practice example presented in *Chapter 2: Flow Control* of the book [*Automate the Boring Stuff with Python* by Al Sweigart](https://automatetheboringstuff.com/).
 
 ## Table of contents
 

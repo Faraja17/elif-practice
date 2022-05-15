@@ -34,7 +34,7 @@ I had a lot of fun making the program my own by applying all that I learned abou
 A fun and engaging program is presented as an example in the elif Statements section of Chapter 2. View the original program from the book here: [vampire](https://autbor.com/vampire/).  I wanted to make the program work no matter the name or age inputted.  I also wanted the program to be interactive.  So, I started out printing the questions and setting name and age to inputs.  Then I replaced the `>` relational operators.  Instead, I created ranges using the `<=` and `>=` relational operators.  I also used the binary Boolean operators `and` and `or` to evaluate more complex expressions to either `True` or `False`.  I did not like that Alice could enter any age and still get the greeting, so I brainstormed the following code, and was so pleased when it worked:
 
 ```
-elif (name == 'Alice' or name != 'Alice') and (age < 12 or age >= 13 and age <= 59):
+elif name == ('Alice' or name != 'Alice') and (age < 12 or age >= 13 and age <= 59):
     print('You are not Alice, kiddo.')
 ```
 

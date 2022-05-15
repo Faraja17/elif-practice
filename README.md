@@ -4,7 +4,7 @@ Description: This program, written in Python 3.10.4, is a modification of a much
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshots](#screenshots)
+  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -18,7 +18,7 @@ Description: This program, written in Python 3.10.4, is a modification of a much
 ## Overview
 I had a lot of fun making the program my own by applying all that I learned about assigning values to variables, operators, evaluating down to a single Boolean value, functions, and converting strings into integers.  I also applied something I learned in my GDI Python class, the built-in method `name.title()` to capitalize the input.
 
-### Screenshots
+### Screenshot
 
 | <b>My Code</b> | 
 |:--:|

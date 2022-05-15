@@ -19,18 +19,10 @@ Description: This program, written in Python 3.10.4, is a modification of a much
 I had a lot of fun making the program my own by applying all that I learned about assigning values to variables, operators, evaluating down to a single Boolean value, functions, and converting strings into integers.  I also applied something I learned in my GDI Python class, the built-in method `name.title()` to capitalize the input.
 
 ### Screenshots
-| <b>Mobile View</b>| 
-|:--:|
-| ![My Solution for Mobile]() |
 
-| <b>Desktop View</b>| 
+| <b>My Code</b> | 
 |:--:|
-| ![My Solution for Desktop]() |
-
-| <b>More Screenshots</b> | 
-|:--:|
-| [![Link to Google Slides](link-to-slides.png)](https://docs.google.com/presentation/d/e/2PACX-1vROkxVyUGrL-H86BwdRjp2-pR0OU4mqIA1PmLdf0vh8ypV4msyidQBM9mZgJLeFc7AsDSrrOJjhP8Oe/pub?start=false&loop=false&delayms=3000&slide=id.g1270c083a6c_0_146) |
-| [Direct Link to Google Presentation](https://docs.google.com/presentation/d/e/2PACX-1vROkxVyUGrL-H86BwdRjp2-pR0OU4mqIA1PmLdf0vh8ypV4msyidQBM9mZgJLeFc7AsDSrrOJjhP8Oe/pub?start=false&loop=false&delayms=3000&slide=id.g1270c083a6c_0_146)|
+| [![Link to My Code](my-code.png)](https://docs.google.com/presentation/d/e/2PACX-1vROkxVyUGrL-H86BwdRjp2-pR0OU4mqIA1PmLdf0vh8ypV4msyidQBM9mZgJLeFc7AsDSrrOJjhP8Oe/pub?start=false&loop=false&delayms=3000&slide=id.g1270c083a6c_0_146) |
 
 
 ### Links

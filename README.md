@@ -48,7 +48,7 @@ elif name != 'Alice' and age == 12:
 I wanted Alice to be greeted regardless of whether the name input was in uppercase, lowercase, or a combination of both formats.  First I tried the following:
 
 ```
-if (name == 'Alice' or name == 'alice' or name = 'ALICE' and age == 12:
+if (name == 'Alice' or name == 'alice' or name = 'ALICE') and age == 12:
     print('Hi, Alice.')
 ```
 

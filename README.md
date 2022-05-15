@@ -73,6 +73,8 @@ I'm looking forward to completing all 20 chapters of the book. In the introducti
 
 ## Author
 
+Faraja Thompson
+
 - [My Personal Website](https://faraja17.github.io/my-website/)
 - [My Blog: Teacher to Techie](https://faraja17.github.io/)
 - [Faraja Thompson, M.Ed. on LinkedIn](https://www.linkedin.com/in/faraja-thompson-m-ed-70885b8/)

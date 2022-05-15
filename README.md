@@ -38,7 +38,7 @@ elif (name == 'Alice' or name != 'Alice') and (age < 12 or age >= 13 and age <= 
     print('You are not Alice, kiddo.')
 ```
 
-The left side of the expression will always evaluate to `True`, which means that Alice must enter her correct age in order to get the greeting.  Otherwise, she getts the "You are not Alice" messages like everyone else.  Another problem that stumped me for a while was that if a name other than Alice and age 12 was inputted, nothing would print.  I solved that problem by adding an additional elif statement:
+The left side of the expression will always evaluate to `True`, regardless of the name inputted, which means that Alice must enter her correct age in order to get the greeting.  Otherwise, she getts the "You are not Alice" messages like everyone else.  Another problem that stumped me for a while was that if a name other than Alice and age 12 was inputted, nothing would print.  I solved that problem by adding an additional elif statement:
 
 ```
 elif name != 'Alice' and age == 12:

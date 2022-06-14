@@ -18,15 +18,31 @@ This program, written in Python 3.10.4, is a modification of a much more rudimen
 ## Overview
 I had a lot of fun making the program my own by applying all that I learned about assigning values to variables, operators, evaluating down to a single Boolean value, functions, and converting strings into integers.  I also applied something I learned in my GDI Python class, the built-in string method `name.title()` to capitalize the input.
 
-### Screenshot
+### My Code
 
-| <b>My Code</b> | 
-|:--:|
-| [![Link to My Code](my-code.png)](https://raw.githubusercontent.com/Faraja17/elif-practice/main/my-code.png) |
+```python
+print('What is your name?')
+name = input()
+name = name.title()
+print('How old are you?')
+age = input()
+age = int(age)
 
+if name == 'Alice' and age == 12:
+    print('Hi, Alice.')
+elif name != 'Alice' and age == 12:
+    print('You are not Alice, kiddo.')
+elif (name == 'Alice' or name != 'Alice') and (age < 12 or age >= 13 and age <= 59):
+    print('You are not Alice, kiddo.')
+elif (name == 'Alice' or name != 'Alice') and (age >= 60 and age <= 110):
+    print ('You are not Alice, grannie.')
+elif (name == 'Alice' or name != 'Alice') and age >= 111:
+    print ('Unlike you, Alice is not an undead, immortal vampire.')
+```
 
 ### Links
 
+- [Have fun trying out the program using Online Python IDE!](https://www.online-python.com/4o750lDUrc)
 - [View the execution of my customized program here](https://pythontutor.com/visualize.html#code=print%28'What%20is%20your%20name%3F'%29%0Aname%20%3D%20input%28%29%0Aname%20%3D%20name.title%28%29%0Aprint%28'How%20old%20are%20you%3F'%29%0Aage%20%3D%20input%28%29%0Aage%20%3D%20int%28age%29%0A%0Aif%20name%20%3D%3D%20'Alice'%20and%20age%20%3D%3D%2012%3A%0A%20%20%20%20print%28'Hi,%20Alice.'%29%0Aelif%20name%20!%3D%20'Alice'%20and%20age%20%3D%3D%2012%3A%0A%20%20%20%20print%28'You%20are%20not%20Alice,%20kiddo.'%29%0Aelif%20%28name%20%3D%3D%20'Alice'%20or%20name%20!%3D%20'Alice'%29%20and%20%28age%20%3C%2012%20or%20age%20%3E%3D%2013%20and%20age%20%3C%3D%2059%29%3A%0A%20%20%20%20print%28'You%20are%20not%20Alice,%20kiddo.'%29%0Aelif%20%28name%20%3D%3D%20'Alice'%20or%20name%20!%3D%20'Alice'%29%20and%20%28age%20%3E%3D%2060%20and%20age%20%3C%3D%20110%29%3A%0A%20%20%20%20print%20%28'You%20are%20not%20Alice,%20grannie.'%29%0Aelif%20%28name%20%3D%3D%20'Alice'%20or%20name%20!%3D%20'Alice'%29%20and%20age%20%3E%3D%20111%3A%0A%20%20%20%20print%20%28'Unlike%20you,%20Alice%20is%20not%20an%20undead,%20immortal%20vampire.'%29&cumulative=false&curInstr=0&heapPrimitives=nevernest&mode=display&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false).
 
 ## My process
